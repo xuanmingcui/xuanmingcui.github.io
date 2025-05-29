@@ -25,11 +25,11 @@ Email: xuanming.cui (at) ucf.edu
 &nbsp;&nbsp; ICML 2025
 
 - *AirSketch: Generative Motion to Sketch*  
-&nbsp;&nbsp; Hui Xian Grace Lim\*, **Xuanming Cui**\*, Ser-Nam Lim, Yogesh S Rawat.  
+&nbsp;&nbsp; Hui Xian Grace Lim\*, **Xuanming Cui**\*, Ser-Nam Lim, Yogesh S Rawat  
 &nbsp;&nbsp; NeurIPS 2024
 
-- *On the robustness of large multimodal models against image adversarial attacks.*  
-&nbsp;&nbsp; **Xuanming Cui**, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim.  
+- *On the robustness of large multimodal models against image adversarial attacks*  
+&nbsp;&nbsp; **Xuanming Cui**, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim  
 &nbsp;&nbsp; CVPR 2024
 
 
