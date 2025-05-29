@@ -2,44 +2,43 @@
 layout: default
 ---
 
-## About Me
+<!-- ## About Me -->
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="IMG_3001.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am Xuanming Cui, a 2nd year Computer Science PhD student at University of Central Florida with Dr.Ser-nam Lim. My research interest is in knowledge representation, neuro-symbolic methods, reasoning, and multimodal content understanding.  
+  
+Email: xuanming.cui (at) ucf.edu
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <img src="Google_Scholar_logo.svg" alt="Google Scholar" style="height: 1em; vertical-align: text-bottom;">
+</a> / <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <img src="Google_Scholar_logo.svg" alt="Google Scholar" style="height: 1em; vertical-align: text-bottom;">
+</a> -->
 
-## Research Interest
+## Publications 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+(\* Equal Contr.)
 
-## Publications
+- *Improving Soft Unification with Knowledge Graph Embedding Methods*  
+&nbsp;&nbsp; **Xuanming Cui**, Chionh Wei Peng, Adriel Kuek, Ser-Nam Lim  
+&nbsp;&nbsp; ICML 2025
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- *AirSketch: Generative Motion to Sketch*  
+&nbsp;&nbsp; Hui Xian Grace Lim\*, **Xuanming Cui**\*, Ser-Nam Lim, Yogesh S Rawat.  
+&nbsp;&nbsp; NeurIPS 2024
 
-## Typography
+- *On the robustness of large multimodal models against image adversarial attacks.*  
+&nbsp;&nbsp; **Xuanming Cui**, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim.  
+&nbsp;&nbsp; CVPR 2024
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+## Experience
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+- Research Scientist Intern @ **Meta**  
+&nbsp;&nbsp; May-August, 2025  
+&nbsp;&nbsp; Multimodal Embedding
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- Quantitative Modeler and Developer Intern @ **Pretium**  
+&nbsp;&nbsp; May-Nov, 2021  
+&nbsp;&nbsp; Mortgage Backed Securities

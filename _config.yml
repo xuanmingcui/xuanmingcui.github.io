@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Xuanming Cui
+# url: "https://ankitsultana.com"
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,16 +9,14 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Template from Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=2tpwyb4AAAAJ&hl=en"
+ - name: "Blog ->"
+   link: "https://satin-monday-895.notion.site/Xuanming-s-Blog-20065d45538d80d2b87ec2fb92e74351"
