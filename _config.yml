@@ -19,7 +19,9 @@ sass:
 nav:
  - name: "Google scholar"
    link: "https://scholar.google.com/citations?user=2tpwyb4AAAAJ&hl=en"
+ - name: "Github"
+   link: "https://github.com/xuanmingcui"
  - name: "Linkedin"
    link: "https://www.linkedin.com/in/xuanming-cui-9686b9170/"
- - name: "Blog ->"
+ - name: " ->"
    link: "https://satin-monday-895.notion.site/Xuanming-s-Blog-20065d45538d80d2b87ec2fb92e74351"
