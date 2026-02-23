@@ -20,17 +20,22 @@ Email: xuanming.cui (at) ucf.edu
 
 (\* Equal Contr.)
 
-- *Think Then Embed: Generative context improves multimodal embedding* **(ICLR 2026)**  
-&nbsp;&nbsp; **Xuanming Cui**\*, Jianpeng Cheng*, Hong-you Chen, Satya Narayan Shukla, Abhijeet Awasthi, Xichen Pan, Chaitanya Ahuja, Shlok Kumar Mishra, Yonghuan Yang, Jun Xiao, Qi Guo, Ser-Nam Lim, Aashu Singh, Xiangjun Fan
+- *Think Then Embed: Generative context improves multimodal embedding*  
+&nbsp;&nbsp; **Xuanming Cui**\*, Jianpeng Cheng*, Hong-you Chen, Satya Narayan Shukla, Abhijeet Awasthi, Xichen Pan, Chaitanya Ahuja,  
+&nbsp;&nbsp; Shlok Kumar Mishra, Yonghuan Yang, Jun Xiao, Qi Guo, Ser-Nam Lim, Aashu Singh, Xiangjun Fan  
+&nbsp;&nbsp; **ICLR 2026**
 
-- *Improving Soft Unification with Knowledge Graph Embedding Methods*  **(ICML 2025)**  
+- *Improving Soft Unification with Knowledge Graph Embedding Methods*    
 &nbsp;&nbsp; **Xuanming Cui**, Chionh Wei Peng, Adriel Kuek, Ser-Nam Lim  
+&nbsp;&nbsp; **ICML 2025**
 
-- *AirSketch: Generative Motion to Sketch* **(NeurIPS 2024)**  
+- *AirSketch: Generative Motion to Sketch*    
 &nbsp;&nbsp; Hui Xian Grace Lim\*, **Xuanming Cui**\*, Ser-Nam Lim, Yogesh S Rawat  
+&nbsp;&nbsp; **NeurIPS 2024**
 
-- *On the robustness of large multimodal models against image adversarial attacks* **(CVPR 2024)**  
+- *On the robustness of large multimodal models against image adversarial attacks*   
 &nbsp;&nbsp; **Xuanming Cui**, Alejandro Aparcedo, Young Kyun Jang, Ser-Nam Lim  
+&nbsp;&nbsp; **CVPR 2024** 
 
 
 ## Experience
