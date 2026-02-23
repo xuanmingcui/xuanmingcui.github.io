@@ -21,8 +21,9 @@ Email: xuanming.cui (at) ucf.edu
 (\* Equal Contr.)
 
 - *Think Then Embed: Generative context improves multimodal embedding*  
-&nbsp;&nbsp; **Xuanming Cui**\*, Jianpeng Cheng*, Hong-you Chen, Satya Narayan Shukla, Abhijeet Awasthi, Xichen Pan, Chaitanya Ahuja,  
-&nbsp;&nbsp; Shlok Kumar Mishra, Yonghuan Yang, Jun Xiao, Qi Guo, Ser-Nam Lim, Aashu Singh, Xiangjun Fan  
+&nbsp;&nbsp; **Xuanming Cui**\*, Jianpeng Cheng*, Hong-you Chen, Satya Narayan Shukla,
+&nbsp;&nbsp; Abhijeet Awasthi, Xichen Pan, Chaitanya Ahuja, Shlok Kumar Mishra,
+&nbsp;&nbsp; Yonghuan Yang, Jun Xiao, Qi Guo, Ser-Nam Lim, Aashu Singh, Xiangjun Fan  
 &nbsp;&nbsp; **ICLR 2026**
 
 - *Improving Soft Unification with Knowledge Graph Embedding Methods*    
