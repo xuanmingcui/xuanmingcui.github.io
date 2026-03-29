@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="IMG_3001.png">
 
-Hi! I am Xuanming Cui, a 2nd year Computer Science PhD student at University of Central Florida with Dr.Ser-nam Lim. My research interest is in knowledge representation, neuro-symbolic methods, reasoning, and multimodal content understanding.  
+Hi! I am Xuanming Cui, a 3rd year Computer Science PhD student at University of Central Florida with Dr.Ser-nam Lim. My research interest is in knowledge representation, neuro-symbolic methods, reasoning, and multimodal content understanding.  
   
 Email: xuanming.cui (at) ucf.edu
 
