@@ -42,8 +42,12 @@ Email: xuanming.cui (at) ucf.edu
 ## Experience
 
 - Research Scientist Intern @ **Meta**  
+&nbsp;&nbsp; May-Present, 2026  
+&nbsp;&nbsp; Meta Recommendation System; Long Context Compression, Multimodal Embedding
+
+- Research Scientist Intern @ **Meta**  
 &nbsp;&nbsp; May-Nov, 2025  
-&nbsp;&nbsp; Multimodal Embedding
+&nbsp;&nbsp; Meta Recommendation System; Multimodal Embedding
 
 - Quantitative Modeler and Developer Intern @ **Pretium**  
 &nbsp;&nbsp; May-Nov, 2021  
